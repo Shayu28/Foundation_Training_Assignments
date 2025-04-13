@@ -1,0 +1,4 @@
+C:\Users\Admin\Downloads\Foundation Training\C Sharp\SIS\SIS\obj\Debug\net8.0\SIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Foundation Training\C Sharp\SIS\SIS\obj\Debug\net8.0\SIS.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Foundation Training\C Sharp\SIS\SIS\obj\Debug\net8.0\SIS.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Foundation Training\C Sharp\SIS\SIS\obj\Debug\net8.0\SIS.csproj.CoreCompileInputs.cache
