@@ -1,0 +1,4 @@
+C:\Users\Admin\Downloads\Foundation Training\Assignments\Banking System\C Sharp\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Foundation Training\Assignments\Banking System\C Sharp\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Foundation Training\Assignments\Banking System\C Sharp\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Foundation Training\Assignments\Banking System\C Sharp\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
